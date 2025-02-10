@@ -1,0 +1,5 @@
+/*
+Write a script that utilizes const for declaring constants. 
+Attempt to reassign values to these constants and observe the behavior.
+Include comments explaining the concept of immutability with const and when it is appropriate to use it.
+*/
