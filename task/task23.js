@@ -19,5 +19,5 @@ const person1 = new Person("Jeet", 21);
 const person2 = new Person("harsh", 22);
 
 // Calling the greet method on both objects
-person1.greet();  // Output: Hello, my name is Jeet!
-person2.greet();  // Output: Hello, my name is Aditi!
+person1.greet();  
+person2.greet();  
